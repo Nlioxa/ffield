@@ -31,6 +31,9 @@ class FNumber:
     def __str__(self):
         return str(int(self))
 
+    def __repr__(self):
+        return str(int(self))
+
 class FField:
     def __init__(self, p, w):
         self.p = p

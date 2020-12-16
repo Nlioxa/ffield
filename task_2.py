@@ -10,6 +10,6 @@ Yb = f.mod(Xb)
 
 K = Ya ** Xb
 
-print(f"Ya = {Ya}, Yb = {Yb}, K = {K}")
+print(f"{Ya = }, {Yb = }, {K = }")
 
 # Ya = 76, Yb = 49, K = 48
