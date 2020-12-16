@@ -15,7 +15,7 @@ print(f"task 6: {b ** c = }")
 
 # task 1: b + c = 21
 # task 2: b - c = 18
-# task 3: b = 3, c = 2
+# task 3: J_b = 3, J_c = 2
 # task 4: b * c = 46
 # task 5: b / c = 13
 # task 6: b ** c = 5
